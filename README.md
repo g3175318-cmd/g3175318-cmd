@@ -25,7 +25,9 @@
 [![](https://visitcount.itsvg.in/api?id=g3175318-cmd&icon=5&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-[![Donate ₹30.00 via UPI](https://img.shields.io/badge/Donate-%E2%82%B930.00%20via%20UPI-brightgreen?style=flat&logo=upi&logoColor=white)](https://rv7g97q.short.gy/my-link)
+<a href="upi://pay?pa=6297565802@ybl&pn=AMLAN%20DEY&am=30.00&cu=INR">
+  <img src="https://img.shields.io/badge/Donate-UPI-green?style=for-the-badge&logo=upi" alt="Donate via UPI">
+</a>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
